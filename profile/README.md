@@ -33,6 +33,7 @@
 ## 💻 백엔드/프론트엔드 별 기능 요구사항
 - [Backend-Notion](https://busy-catboat-73d.notion.site/Backend-beb4d8a57b954338b982bacfe93b5039)
 - [Frontend-Notion](https://busy-catboat-73d.notion.site/Frontend-8e99798bf64746e5823d22fdb47a5e57)
+(각 Repository에도 요구사항을 작성해놓았습니다)
 
 <br/>
 
